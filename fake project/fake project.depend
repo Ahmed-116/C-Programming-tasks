@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714628961 source:d:\sp24-bse-066\fake project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

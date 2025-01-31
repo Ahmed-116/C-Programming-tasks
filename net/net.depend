@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709055953 source:d:\sp24-bse-066\net\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709230414 source:d:\sp24-bse-066\ evai\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1709231451 source:d:\sp24-bse-066\new3.c
+	<stdio.h>
+

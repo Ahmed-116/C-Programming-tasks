@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708017782 source:d:\sp24-bse-066\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1708017921 source:d:\sp24-bse-066\ok.c
+	<stdio.h>
+

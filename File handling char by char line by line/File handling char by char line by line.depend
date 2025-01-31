@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716222886 source:d:\sp24-bse-066\file handling char by char line by line\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<unistd.h>
+	<limits.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709744375 source:d:\sp24-bse-066\lecture 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
